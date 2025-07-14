@@ -1,0 +1,50 @@
+body {
+  background-color: #fff5f8;
+  font-family: 'Poppins', sans-serif;
+  color: #5a4b51;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ffe9f0;
+  text-align: center;
+  padding: 2em 1em;
+  border-bottom: 2px solid #eab5d8;
+}
+
+h1 {
+  color: #e07da5;
+  font-size: 2em;
+}
+
+p {
+  font-size: 1.2em;
+  color: #b46fa3;
+}
+
+.ciclo {
+  background-color: #ffe3f3;
+  border-radius: 15px;
+  margin: 2em auto;
+  padding: 1em;
+  width: 85%;
+  box-shadow: 0 4px 8px rgba(234, 181, 216, 0.3);
+}
+
+h2 {
+  color: #e07da5;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  background-color: #fff;
+  margin: 0.5em;
+  padding: 1em;
+  border-radius: 10px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+}
